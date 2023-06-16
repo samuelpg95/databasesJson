@@ -1,0 +1,461 @@
+[
+ {
+  "Id": 254,
+  "Desc": "AGUAR CANA DOURO 475ML",
+  "Categoria": "AGUAR",
+  "Tipo": "CANA DOURO 475ML",
+  "Qtd": 244,
+  "Preco": 2.97,
+  "Num": "7898221931301"
+ },
+ {
+  "Id": 1445,
+  "Desc": "AGUAR PITU AMARELINHA 965ML",
+  "Categoria": "AGUAR",
+  "Tipo": "PITU AMARELINHA 965ML",
+  "Qtd": 146,
+  "Preco": 19.86,
+  "Num": "7896607100853"
+ },
+ {
+  "Id": 1464,
+  "Desc": "AGUAR PITU LIMAO LATA 350ML",
+  "Categoria": "AGUAR",
+  "Tipo": "PITU LIMAO LATA 350ML",
+  "Qtd": 1,
+  "Preco": 4.73,
+  "Num": "7896607100280"
+ },
+ {
+  "Id": 247,
+  "Desc": "AGUAR PITU OURO S FIBRA 1LT",
+  "Categoria": "AGUAR",
+  "Tipo": "PITU OURO S FIBRA 1LT",
+  "Qtd": 3,
+  "Preco": 45.1,
+  "Num": "7896607100266"
+ },
+ {
+  "Id": 56,
+  "Desc": "AGUAR PITU PRATA 965ML",
+  "Categoria": "AGUAR",
+  "Tipo": "PITU PRATA 965ML",
+  "Qtd": 183,
+  "Preco": 10.62,
+  "Num": "7896607100174"
+ },
+ {
+  "Id": 173,
+  "Desc": "AGUAR PITU PRATA LATA 350ML",
+  "Categoria": "AGUAR",
+  "Tipo": "PITU PRATA LATA 350ML",
+  "Qtd": 10,
+  "Preco": 5.44,
+  "Num": "7896607100044"
+ },
+ {
+  "Id": 435,
+  "Desc": "AGUAR PITU PRATA MINI 50ML",
+  "Categoria": "AGUAR",
+  "Tipo": "PITU PRATA MINI 50ML",
+  "Qtd": 62,
+  "Preco": 9.35,
+  "Num": "7896607100198"
+ },
+ {
+  "Id": 1465,
+  "Desc": "AGUAR PITU SUPER LATAO 710ML",
+  "Categoria": "AGUAR",
+  "Tipo": "PITU SUPER LATAO 710ML",
+  "Qtd": 22,
+  "Preco": 9.24,
+  "Num": "7896607100532"
+ },
+ {
+  "Id": 279,
+  "Desc": "APER APEROL 750ML",
+  "Categoria": "APER",
+  "Tipo": "APEROL 750ML",
+  "Qtd": 45,
+  "Preco": 55,
+  "Num": "7891136057012"
+ },
+ {
+  "Id": 1283,
+  "Desc": "APER BOSS CLUB 900ML",
+  "Categoria": "APER",
+  "Tipo": "BOSS CLUB 900ML",
+  "Qtd": 62,
+  "Preco": 18.7,
+  "Num": "7897146101875"
+ },
+ {
+  "Id": 603,
+  "Desc": "APER BRASILBERG 920ML",
+  "Categoria": "APER",
+  "Tipo": "BRASILBERG 920ML",
+  "Qtd": 17,
+  "Preco": 44.83,
+  "Num": "7896019302012"
+ },
+ {
+  "Id": 29,
+  "Desc": "APER CAMPARI 900ML",
+  "Categoria": "APER",
+  "Tipo": "CAMPARI 900ML",
+  "Qtd": 23,
+  "Preco": 51.42,
+  "Num": "7891136051003"
+ },
+ {
+  "Id": 1409,
+  "Desc": "APER D MALT WHISKY CHANCELER 1LT",
+  "Categoria": "APER",
+  "Tipo": "D MALT WHISKY CHANCELER 1LT",
+  "Qtd": 33,
+  "Preco": 27.12,
+  "Num": "7896072911244"
+ },
+ {
+  "Id": 294,
+  "Desc": "APER DE ABSINTO KOSTEN 670ML",
+  "Categoria": "APER",
+  "Tipo": "DE ABSINTO KOSTEN 670ML",
+  "Qtd": 3,
+  "Preco": 49.99,
+  "Num": "7896037918622"
+ },
+ {
+  "Id": 280,
+  "Desc": "APER ST REMY 750ML",
+  "Categoria": "APER",
+  "Tipo": "ST REMY 750ML",
+  "Qtd": 3,
+  "Preco": 47.63,
+  "Num": "7891121021004"
+ },
+ {
+  "Id": 1340,
+  "Desc": "APER VERMELHAO 220ML",
+  "Categoria": "APER",
+  "Tipo": "VERMELHAO 220ML",
+  "Qtd": 91,
+  "Preco": 9.1,
+  "Num": "7896437905536"
+ },
+ {
+  "Id": 1278,
+  "Desc": "APER VERMELHAO 740ML",
+  "Categoria": "APER",
+  "Tipo": "VERMELHAO 740ML",
+  "Qtd": 125,
+  "Preco": 48.95,
+  "Num": "7898275230153"
+ },
+ {
+  "Id": 1432,
+  "Desc": "CAJUINA NORDESTINA 330ML",
+  "Categoria": "CAJUINA",
+  "Tipo": "NORDESTINA 330ML",
+  "Qtd": 90,
+  "Preco": 3.08,
+  "Num": "7897015100022"
+ },
+ {
+  "Id": 112,
+  "Desc": "CAJUINA NORDESTINA 480ML",
+  "Categoria": "CAJUINA",
+  "Tipo": "NORDESTINA 480ML",
+  "Qtd": 162,
+  "Preco": 4.02,
+  "Num": "7897015100015"
+ },
+ {
+  "Id": 45,
+  "Desc": "CAJUINA SAO GERALDO 1LT",
+  "Categoria": "CAJUINA",
+  "Tipo": "SAO GERALDO 1LT",
+  "Qtd": 147,
+  "Preco": 5.66,
+  "Num": "7897240900114"
+ },
+ {
+  "Id": 44,
+  "Desc": "CAJUINA SAO GERALDO 2000ML",
+  "Categoria": "CAJUINA",
+  "Tipo": "SAO GERALDO 2000ML",
+  "Qtd": 127,
+  "Preco": 8.3,
+  "Num": "7897240900107"
+ },
+ {
+  "Id": 194,
+  "Desc": "CAJUINA SAO GERALDO 250ML",
+  "Categoria": "CAJUINA",
+  "Tipo": "SAO GERALDO 250ML",
+  "Qtd": 207,
+  "Preco": 1.92,
+  "Num": "7897240900145"
+ },
+ {
+  "Id": 1282,
+  "Desc": "CAJUINA SIARA 480ML",
+  "Categoria": "CAJUINA",
+  "Tipo": "SIARA 480ML",
+  "Qtd": 54,
+  "Preco": 4.84,
+  "Num": "7897146101745"
+ },
+ {
+  "Id": 978,
+  "Desc": "CHAMP MOET CHANDON BRUT 200 ML",
+  "Categoria": "CHAMP",
+  "Tipo": "MOET CHANDON BRUT 200 ML",
+  "Qtd": 10,
+  "Preco": 98.89,
+  "Num": "3185370063989"
+ },
+ {
+  "Id": 238,
+  "Desc": "CHAMP MOET CHANDON BRUT 750ML",
+  "Categoria": "CHAMP",
+  "Tipo": "MOET CHANDON BRUT 750ML",
+  "Qtd": 4,
+  "Preco": 487.89,
+  "Num": "3185370000335"
+ },
+ {
+  "Id": 1537,
+  "Desc": "CHAMP VEUVE CLICQUOT BRUT 375ML",
+  "Categoria": "CHAMP",
+  "Tipo": "VEUVE CLICQUOT BRUT 375ML",
+  "Qtd": 36,
+  "Preco": 218.9,
+  "Num": "3049610004203"
+ },
+ {
+  "Id": 288,
+  "Desc": "CHAMP VEUVE CLICQUOT BRUT 750ML",
+  "Categoria": "CHAMP",
+  "Tipo": "VEUVE CLICQUOT BRUT 750ML",
+  "Qtd": 4,
+  "Preco": 449.9,
+  "Num": "3049610004104"
+ },
+ {
+  "Id": 1264,
+  "Desc": "CHAMP VEUVE CLICQUOT DEMI SEC 750ML",
+  "Categoria": "CHAMP",
+  "Tipo": "VEUVE CLICQUOT DEMI SEC 750ML",
+  "Qtd": 2,
+  "Preco": 449.9,
+  "Num": "3049610000106"
+ },
+ {
+  "Id": 287,
+  "Desc": "CHAMP VEUVE CLICQUOT ROSE 750ML",
+  "Categoria": "CHAMP",
+  "Tipo": "VEUVE CLICQUOT ROSE 750ML",
+  "Qtd": 2,
+  "Preco": 449.9,
+  "Num": "3049614003417"
+ },
+ {
+  "Id": 1166,
+  "Desc": "COCA COLA 1,5LT",
+  "Categoria": "COCA",
+  "Tipo": "COLA 1,5LT",
+  "Qtd": 70,
+  "Preco": 6.32,
+  "Num": "7894900027006"
+ },
+ {
+  "Id": 4,
+  "Desc": "COCA COLA 1LT",
+  "Categoria": "COCA",
+  "Tipo": "COLA 1LT",
+  "Qtd": 73,
+  "Preco": 5.83,
+  "Num": "7894900027044"
+ },
+ {
+  "Id": 1169,
+  "Desc": "COCA COLA 1LT RETORNAVEL",
+  "Categoria": "COCA",
+  "Tipo": "COLA 1LT RETORNAVEL",
+  "Qtd": 12,
+  "Preco": 4.69,
+  "Num": "7894900015119"
+ },
+ {
+  "Id": 5,
+  "Desc": "COCA COLA 2LT",
+  "Categoria": "COCA",
+  "Tipo": "COLA 2LT",
+  "Qtd": 347,
+  "Preco": 9.74,
+  "Num": "7894900027013"
+ },
+ {
+  "Id": 1167,
+  "Desc": "COCA COLA 2LT RETORNAVEL",
+  "Categoria": "COCA",
+  "Tipo": "COLA 2LT RETORNAVEL",
+  "Qtd": 23,
+  "Preco": 7.62,
+  "Num": "7894900014211"
+ },
+ {
+  "Id": 3,
+  "Desc": "COCA COLA 600ML",
+  "Categoria": "COCA",
+  "Tipo": "COLA 600ML",
+  "Qtd": 143,
+  "Preco": 4.08,
+  "Num": "7894900011609"
+ },
+ {
+  "Id": 1478,
+  "Desc": "COCA COLA COM CAFE LT 220ML",
+  "Categoria": "COCA",
+  "Tipo": "COLA COM CAFE LT 220ML",
+  "Qtd": 12,
+  "Preco": 2.92,
+  "Num": "7894900025019"
+ },
+ {
+  "Id": 947,
+  "Desc": "COCA COLA LATA 350ML",
+  "Categoria": "COCA",
+  "Tipo": "COLA LATA 350ML",
+  "Qtd": 2475,
+  "Preco": 3.09,
+  "Num": "7894900010015"
+ },
+ {
+  "Id": 1155,
+  "Desc": "COCA COLA LATA BARCOD 6X350ML",
+  "Categoria": "COCA",
+  "Tipo": "COLA LATA BARCOD 6X350ML",
+  "Qtd": 234,
+  "Preco": 17.66,
+  "Num": "7894900011326"
+ },
+ {
+  "Id": 49,
+  "Desc": "COCA COLA PET 250ML",
+  "Categoria": "COCA",
+  "Tipo": "COLA PET 250ML",
+  "Qtd": 244,
+  "Preco": 2.31,
+  "Num": "78912939"
+ },
+ {
+  "Id": 1255,
+  "Desc": "COCA COLA ZERO  1,5LT",
+  "Categoria": "COCA",
+  "Tipo": "COLA ZERO  1,5LT",
+  "Qtd": 35,
+  "Preco": 5.99,
+  "Num": "7894900701753"
+ },
+ {
+  "Id": 663,
+  "Desc": "COCA COLA ZERO 2LT",
+  "Categoria": "COCA",
+  "Tipo": "COLA ZERO 2LT",
+  "Qtd": 85,
+  "Preco": 9.74,
+  "Num": "7894900701517"
+ },
+ {
+  "Id": 1472,
+  "Desc": "COCA COLA ZERO 600ML",
+  "Categoria": "COCA",
+  "Tipo": "COLA ZERO 600ML",
+  "Qtd": 58,
+  "Preco": 3.74,
+  "Num": "7894900701609"
+ },
+ {
+  "Id": 7,
+  "Desc": "COCA COLA ZERO LATA 350ML",
+  "Categoria": "COCA",
+  "Tipo": "COLA ZERO LATA 350ML",
+  "Qtd": 286,
+  "Preco": 3.08,
+  "Num": "7894900700015"
+ },
+ {
+  "Id": 1228,
+  "Desc": "COCA COLA ZERO LATA BARCOD  6X350ML",
+  "Categoria": "COCA",
+  "Tipo": "COLA ZERO LATA BARCOD  6X350ML",
+  "Qtd": 48,
+  "Preco": 17.66,
+  "Num": "7894900701326"
+ },
+ {
+  "Id": 1470,
+  "Desc": "COCA COLA ZERO MOVEMENT LT 310ML",
+  "Categoria": "COCA",
+  "Tipo": "COLA ZERO MOVEMENT LT 310ML",
+  "Qtd": 6,
+  "Preco": 3.08,
+  "Num": "7894900029017"
+ },
+ {
+  "Id": 1200,
+  "Desc": "COCA COLA ZERO PET 250ML",
+  "Categoria": "COCA",
+  "Tipo": "COLA ZERO PET 250ML",
+  "Qtd": 110,
+  "Preco": 2.31,
+  "Num": "78909045"
+ },
+ {
+  "Id": 204,
+  "Desc": "CONHAQUE DOMECQ 1000ML",
+  "Categoria": "CONHAQUE",
+  "Tipo": "DOMECQ 1000ML",
+  "Qtd": 27,
+  "Preco": 40.59,
+  "Num": "7896080001401"
+ },
+ {
+  "Id": 31,
+  "Desc": "CONHAQUE DREHER 900ML",
+  "Categoria": "CONHAQUE",
+  "Tipo": "DREHER 900ML",
+  "Qtd": 111,
+  "Preco": 24.15,
+  "Num": "7896010006360"
+ },
+ {
+  "Id": 762,
+  "Desc": "CONHAQUE PRESIDENTE 900ML",
+  "Categoria": "CONHAQUE",
+  "Tipo": "PRESIDENTE 900ML",
+  "Qtd": 8,
+  "Preco": 13.47,
+  "Num": "7896023080487"
+ },
+ {
+  "Id": 68,
+  "Desc": "CONHAQUE SAO JOAO DA BARRA 900ML",
+  "Categoria": "CONHAQUE",
+  "Tipo": "SAO JOAO DA BARRA 900ML",
+  "Qtd": 88,
+  "Preco": 19.14,
+  "Num": "7896022610005"
+ },
+ {
+  "Id": 813,
+  "Desc": "CONHAQUE SEDUTOR 900ML",
+  "Categoria": "CONHAQUE",
+  "Tipo": "SEDUTOR 900ML",
+  "Qtd": 10,
+  "Preco": 13.42,
+  "Num": "7897146100090"
+ }
+]
